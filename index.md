@@ -11,14 +11,14 @@ This site is maintained by Metro Nashville Information Technology Services. Info
 *This site was last updated on April 20, 2026.*
 
 <details>
-<summary>This is a test of an accordion</summary>
+    <summary>This is a test of an accordion</summary>
 
-## This is a header
+    ## This is a header
 
-This is some content in an accordion.
+    This is some content in an accordion.
 
-* This is a list in an accordion
-* This is another list item
-* This is a third list item
+    * This is a list in an accordion
+    * This is another list item
+    * This is a third list item
 
 </details>

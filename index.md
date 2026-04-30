@@ -10,7 +10,7 @@ This site is maintained by Metro Nashville Information Technology Services. Info
 
 *This site was last updated on April 20, 2026.*
 
-<details>
+<details markdown="block">
 <summary>This is a test of an accordion</summary>
 
 ## This is a header
@@ -23,7 +23,7 @@ This is some content in an accordion.
 
 </details>
 
-<details>
+<details markdown="block">
 Test
 
 * Test item 1

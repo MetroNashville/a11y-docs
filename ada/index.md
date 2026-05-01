@@ -1,7 +1,7 @@
 ---
-title: ADA
+title: Americans with Disabilities Act
 layout: default
 nav_order: 1.1
 ---
 
-# Digital Accessibility in the Americans with Disabilities Act
+# Americans with Disabilities Act
